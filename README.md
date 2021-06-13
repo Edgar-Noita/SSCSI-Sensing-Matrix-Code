@@ -10,7 +10,9 @@ imp_leq.m: File that implements sensing_leq.m. Notice that Delta_c/(1-s)<Delta_d
 
 sensing_geq.m: Function that models the sensing process for non-super-resolved problems (Eq. 19 of reference paper)
 
-imp_geq.m: File that implements sensing_leq.m. Notice that Delta_c/(1-s)>Delta_d, and Delta_d is an integer multiple of Delta_d
+imp_geq.m: File that implements sensing_leq.m. Notice that Delta_c/(1-s)>Delta_d, and Delta_d is an integer multiple of Delta_d.
+
+If you want to have access to the hyperspectral data, please contact the author.
 
 
 
