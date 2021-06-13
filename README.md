@@ -4,9 +4,13 @@ This repository allows the user to access an create the SSCSI sensing matrix for
 
 A detailed explanation of the files can be found next:
 
-sensing_leq.m: Function that models the sensing process for supper-resolved problems (Eq. 18 of reference paper)
+sensing_leq.m: Function that models the sensing process for super-resolved problems (Eq. 18 of reference paper)
 
 imp_leq.m: File that implements sensing_leq.m. Notice that Delta_c/(1-s)<Delta_d, and Delta_d is an integer multiple of Delta_d
+
+sensing_geq.m: Function that models the sensing process for non-super-resolved problems (Eq. 19 of reference paper)
+
+imp_geq.m: File that implements sensing_leq.m. Notice that Delta_c/(1-s)>Delta_d, and Delta_d is an integer multiple of Delta_d
 
 
 
