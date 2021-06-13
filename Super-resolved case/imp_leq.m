@@ -1,6 +1,6 @@
 
 
-%This file shows an example of how to call the function sensing_geq.m
+%This file shows an example of how to call the function sensing_leq.m
 
 Delta_c=[0.2,0.5]; 
 Delta_d=1; %This means that relation between the coded aperture pitch size and
