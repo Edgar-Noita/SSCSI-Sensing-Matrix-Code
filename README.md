@@ -23,3 +23,17 @@ Figure Below shows the SSCSI and the CASSI architectures. The figure was extrate
 The forwarded model matrix has the shape as depicted below. The figure was extrated from the reference paper. Figure left shows the super-resolved case while figure right shows the non super resolved case.
 
 ![Alt text](https://github.com/Edgar-Noita/SSCSI-Sensing-Matrix-Code/blob/main/git_2.png "Title")
+
+
+# To cite paper:
+
+@article{salazar2019spectral,
+  title={Spectral zooming and resolution limits of spatial spectral compressive spectral imagers},
+  author={Salazar, Edgar and Parada-Mayorga, Alejandro and Arce, Gonzalo R},
+  journal={IEEE Transactions on Computational Imaging},
+  volume={5},
+  number={2},
+  pages={165--179},
+  year={2019},
+  publisher={IEEE}
+}
