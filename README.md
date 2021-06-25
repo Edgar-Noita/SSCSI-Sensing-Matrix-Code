@@ -27,13 +27,13 @@ The forwarded model matrix has the shape as depicted below. The figure was extra
 
 # To cite paper:
 
-@article{salazar2019spectral,\\
-  title={Spectral zooming and resolution limits of spatial spectral compressive spectral imagers},\\
-  author={Salazar, Edgar and Parada-Mayorga, Alejandro and Arce, Gonzalo R},\\
-  journal={IEEE Transactions on Computational Imaging},\\
-  volume={5},\\
-  number={2},\\
-  pages={165--179},\\
-  year={2019},\\
-  publisher={IEEE}\\
+@article{salazar2019spectral,
+  title={Spectral zooming and resolution limits of spatial spectral compressive spectral imagers},
+  author={Salazar, Edgar and Parada-Mayorga, Alejandro and Arce, Gonzalo R},
+  journal={IEEE Transactions on Computational Imaging},
+  volume={5},
+  number={2},
+  pages={165--179},
+  year={2019},
+  publisher={IEEE}
 }
