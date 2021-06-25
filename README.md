@@ -14,6 +14,7 @@ imp_geq.m: File that implements sensing_leq.m. Notice that Delta_c/(1-s)>Delta_d
 
 If you want to have access to the hyperspectral data, please contact the author.
 
+# SSCSI Summary
 
 Figure Below shows the SSCSI and the CASSI architectures. The figure was extrated from the reference paper
 ![Alt text](https://github.com/Edgar-Noita/SSCSI-Sensing-Matrix-Code/blob/main/git_1.png "Title")
