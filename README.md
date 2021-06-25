@@ -16,7 +16,9 @@ If you want to have access to the hyperspectral data, please contact the author.
 
 # SSCSI Summary
 
-Figure Below shows the SSCSI and the CASSI architectures. The figure was extrated from the reference paper
+Figure Below shows the SSCSI and the CASSI architectures. The figure was extrated from the reference paper. In SSCSI, the information arrives at the gray scale sensor in focus and the coding process depends on 2 parameters: the position of the mask with respect to the sensor and the dispersion process given by the grating.
 ![Alt text](https://github.com/Edgar-Noita/SSCSI-Sensing-Matrix-Code/blob/main/git_1.png "Title")
 
+
+The forwarded model matrix has the shape as depicted below. The figure was extrated from the reference paper.
 
