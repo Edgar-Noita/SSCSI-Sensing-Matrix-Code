@@ -14,6 +14,6 @@ imp_geq.m: File that implements sensing_leq.m. Notice that Delta_c/(1-s)>Delta_d
 
 If you want to have access to the hyperspectral data, please contact the author.
 
-![Alt text](relative/path/to/img.jpg?raw=true "Title")
+![Alt text](https://github.com/Edgar-Noita/SSCSI-Sensing-Matrix-Code/blob/main/git_1.png "Title")
 
 
